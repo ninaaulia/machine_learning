@@ -1,15 +1,16 @@
 # machine_learning
 ## My first Machine Learning models
 
-### Project : * Lasso regression for Predicting Melbourne Housing Prices
-              * Decision Tree for Breast Cancer Prediction
+### Project : 
+* Lasso regression for Predicting Melbourne Housing Prices
+* Decision Tree for Breast Cancer Prediction
             
             
            
 ## Technologies :
 Project is created with:
 + **Python 3.8.10**
-⋅⋅⋅following Python libraries installed: *Numpy, Pandas, Seaborn & scikit-learn.*
+⋅⋅⋅following Python libraries installed: *Numpy, Pandas, Seaborn & scikit-learn.* ⋅⋅
 + **Jupyter Notebook**
 
 
