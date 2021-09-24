@@ -10,7 +10,7 @@
 ## Technologies :
 Project is created with:
 + **Python 3.8.10**
-⋅⋅⋅following Python libraries installed: *Numpy, Pandas, Seaborn & scikit-learn.* ⋅⋅
+following Python libraries installed: *Numpy, Pandas, Seaborn & scikit-learn.* 
 + **Jupyter Notebook**
 
 
@@ -24,7 +24,7 @@ the Dataset is available in [Kaggle](https://www.kaggle.com/)
 
 Dataset | Columns | Rows
 --- | --- | ---
-Melbourne housing snapshot | 13580 | 14
+Melbourne housing snapshot | 14 | 13580
 Breast cancer wisconsin | 33 | 569
 
 
